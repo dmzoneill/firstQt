@@ -1,5 +1,9 @@
 # firstQt
 
+<p align="center">
+  <img src=".github/logo.png" alt="firstQt logo" width="128" />
+</p>
+
 A first Qt desktop application in C++, written as a learning project.
 
 ## What it does
